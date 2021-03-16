@@ -7,4 +7,11 @@ Due to academic dishonesty, specifically reading and math grades for Thomas High
 
 ## Results
 
+- As seen in the image below, the district as a whole has done well. The average math score is 78.9 with average percentage of students passing math is 74.8%.  Reading is also good with the average score of 81.9 and average passing score of 85.7%.  The numbers drop when including students passing both reading and math with an average percentage of 64.9%.
+
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/District%20Summary.png)
+
+- 
+
+
 
