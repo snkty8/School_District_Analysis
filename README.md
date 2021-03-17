@@ -28,8 +28,12 @@ Due to academic dishonesty, specifically reading and math grades for Thomas High
         - Passing Reading Percentage: 97.0%
         - Overall Passing Percentage: 90.6%
 
-        This is also seen in the imafe below.  These are the results from the school data from after the 9th grade scores were replaced with an average from the 10th through 12th graders scores.
+        This is also seen in the image below.  These are the results from the school data from after the 9th grade scores were replaced with an average from the 10th through 12th graders scores.
 ![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/School%20Summary%20After.png)
+
+- Using the same before and after images from above, we can compare how Thomas High School to the schools.  From the data, Thomas High School is definitely more competitive with the high scores.  Before, Thomas High School was in a lower overall grade bracket with an overall passing percentage of 65.1% and after the replacement scores it shot up to 90.6%.  The ends up putting Thomas High School in the top 5 schools.  
+
+- 
 
 
 
