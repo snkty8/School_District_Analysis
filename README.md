@@ -53,3 +53,14 @@ Due to academic dishonesty, specifically reading and math grades for Thomas High
 - Charter schools obviously have better schools and percentages of students passing in comparison to district school.  Below is the data frame to show this information.
  
 ![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/Type.png)
+
+
+## Summary
+
+- The 9th grade math and reading schools were suspected of academic dishonesty.  In order to up hold testing standards, the scores with replaced with NaNs, then replaced with average scores from the 10th through 12th grade scores.
+
+        9th Grade Scores at Thomas High School Replaced with NaN
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/NaNs.png)
+
+
+This resulted in Thomas High School rising up to one of the top 5 schools due to the rise in scores and percentage of overall passing students.  The spending budget and school size, did not have an affect.  Although Thomas High School rose to of the tope 5 schools, it was shown in the school type data frame Charter Schools are doing much better academically than District schools.  Thomas High School is a district school.
