@@ -33,7 +33,23 @@ Due to academic dishonesty, specifically reading and math grades for Thomas High
 
 - Using the same before and after images from above, we can compare how Thomas High School to the schools.  From the data, Thomas High School is definitely more competitive with the high scores.  Before, Thomas High School was in a lower overall grade bracket with an overall passing percentage of 65.1% and after the replacement scores it shot up to 90.6%.  The ends up putting Thomas High School in the top 5 schools.  
 
-- 
+- Below are the math and reading data frames after replacing the scores at Thomas High School. Not only are the 9th grade math and reading scores at Thomas High School the highest amoung other 9th graders at different schools, it is also the highest for all grades in all of the schools.
+
+        Math Sores Data Frame and code used to create
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/Math_Scores.png)
 
 
+        Reading Scores Data Frame and code used to create
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/Reading_Scores.png)
 
+- Replacing the 9th graders scores at Thomas High School does not look to have changed the way money is spent per student. Below is the data frame to show the bins for spending range, scores, and percentages:
+
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/Spending.png)
+
+- Replacing the 9th graders scores at Thomas High School does not look to have effect on school size. Below is the data frame to show the bins for school size, scores, and percentages:
+
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/Size.png)
+
+- Charter schools obviously have better schools and percentages of students passing in comparison to district school.  Below is the data frame to show this information.
+ 
+![image](https://github.com/snkty8/School_District_Analysis/blob/main/Resources/Type.png)
